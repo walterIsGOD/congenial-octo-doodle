@@ -8,6 +8,9 @@ my art from 2020
 ## Masked Jesus
 ![maskjesus](masked_jesus.png "Masked Jesus")
 
+## Eschaton-19 (Sketch)
+![eschaton-19_sketch](eschaton-19_sketch.png "Eschaton-19 Sketch")
+
 ## God Covid (With custom god interpretation by me)
 ![godvid](godvid_withcustom.png "Godvid 2")
 
